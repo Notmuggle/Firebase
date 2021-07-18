@@ -13,6 +13,7 @@
 		C76C915926A17300008E4256 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76C915726A17300008E4256 /* Main.storyboard */; };
 		C76C915B26A17302008E4256 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C76C915A26A17302008E4256 /* Assets.xcassets */; };
 		C76C915E26A17302008E4256 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76C915C26A17302008E4256 /* LaunchScreen.storyboard */; };
+		C7EFEE5726A4ACA100D24B17 /* plus-image.png in Resources */ = {isa = PBXBuildFile; fileRef = C7EFEE5626A4ACA100D24B17 /* plus-image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C76C915A26A17302008E4256 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C76C915D26A17302008E4256 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C76C915F26A17302008E4256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7EFEE5626A4ACA100D24B17 /* plus-image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "plus-image.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C76C915326A17300008E4256 /* SceneDelegate.swift */,
 				C76C915526A17300008E4256 /* ViewController.swift */,
 				C76C915726A17300008E4256 /* Main.storyboard */,
+				C7EFEE5626A4ACA100D24B17 /* plus-image.png */,
 				C76C915A26A17302008E4256 /* Assets.xcassets */,
 				C76C915C26A17302008E4256 /* LaunchScreen.storyboard */,
 				C76C915F26A17302008E4256 /* Info.plist */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C76C915E26A17302008E4256 /* LaunchScreen.storyboard in Resources */,
+				C7EFEE5726A4ACA100D24B17 /* plus-image.png in Resources */,
 				C76C915B26A17302008E4256 /* Assets.xcassets in Resources */,
 				C76C915926A17300008E4256 /* Main.storyboard in Resources */,
 			);
